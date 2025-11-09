@@ -38,8 +38,10 @@ class Controller{
             // Tippek száma
         // Üzenetek megjelenítése: kisebb vagy nagyobb a gondolt szám, tippek száma
     }
+
 };
 
 
+console.log("anyad");
 
 export default Controller;
